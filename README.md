@@ -10,7 +10,7 @@ You can find step by step guide from [this blog](https://www.logisticinfotech.co
     npm install
 
 ## To run with live reload
-    npm run hot
+    npm start
 
 ## Generate production build
     npm run prod
